@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrendaPArarujo
-- 👀 I’m interested in cyberSecurity and software engineering
-- 🌱 I’m currently learning python
+- 👀 I’m interested in cyberSecurity and AWS
+- 🌱 I’m currently studying fr aws saa certification
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brendapaulin00@hotmail.com
 
